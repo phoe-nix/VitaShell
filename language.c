@@ -22,6 +22,10 @@
 
 extern unsigned char _binary_resources_english_us_txt_start;
 extern unsigned char _binary_resources_english_us_txt_size;
+extern unsigned char _binary_resources_chinese_s_txt_start;
+extern unsigned char _binary_resources_chinese_s_txt_size;
+extern unsigned char _binary_resources_chinese_t_txt_start;
+extern unsigned char _binary_resources_chinese_t_txt_size;
 
 static char *lang[] ={
 	"japanese",
